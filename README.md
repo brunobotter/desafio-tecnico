@@ -63,7 +63,7 @@
 #### Retornando um Status 200 OK
 #### JSON RETORNADO
 
-ˋˋˋ
+```json
 {
     "id": 33,
     "nome": "joao victor menezes"
@@ -82,7 +82,7 @@
 #### Retornando um Status 201 Created
 #### JSON RETORNADO
 
-ˋˋˋ
+```json
 {
     "id": 1,
     "nome": "joao victor menezes"
@@ -95,7 +95,7 @@
 #### Retornando um Status 200 OK
 #### JSON RETORNADO
 
-ˋˋˋ
+```json
 {
     "id": 1,
     "nome": "joao victor menezes"
@@ -107,7 +107,7 @@
 ### Tamanho do campo inferior a 2 caracteres ou superior a 100 caracteres
 ### Retornado Status 400 BAD REQUEST
 
-ˋˋˋ
+```json
 {
     "status": 400,
     "dataHora": "2020-12-08T16:09:30.041846-03:00",
@@ -124,7 +124,7 @@
 ### Inserindo um objeto nulo no campo nome
 ### Retornado Status 400 BAD REQUEST
 
-ˋˋˋ
+```json
 {
     "status": 400,
     "dataHora": "2020-12-08T16:10:47.0139782-03:00",
@@ -141,7 +141,7 @@
 ### Id não encontrado
 ### Retornado Status 404 NOT FOUND
 
-ˋˋˋ
+```json
 {
     "status": 404,
     "dataHora": "2020-12-08T16:11:44.6410208-03:00",
