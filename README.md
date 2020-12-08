@@ -2,6 +2,9 @@
 
 # Criação de um CRUD, com arquitetura REST, utilizando Postgresql como banco de dados
 
+## Link para o frontend do projeto
+https://github.com/brunobotter/desafio-tecnico-ui
+
 ## Tecnologias utilizadas
 
 - spring data jpa
