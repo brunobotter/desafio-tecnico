@@ -68,7 +68,7 @@
     "id": 33,
     "nome": "joao victor menezes"
 }
-ˋˋˋ
+```
 
 ### DELETE deleta
 #### Com 1 parametro obrigatorio id
@@ -87,7 +87,7 @@
     "id": 1,
     "nome": "joao victor menezes"
 }
-ˋˋˋ
+```
 
 ### PUT atualiza
 #### Passando um request body e um parametro obrigatorio id
@@ -100,7 +100,7 @@
     "id": 1,
     "nome": "joao victor menezes"
 }
-ˋˋˋ
+```
 
 ## Erros
 
@@ -119,7 +119,7 @@
         }
     ]
 }
-ˋˋˋ
+```
 
 ### Inserindo um objeto nulo no campo nome
 ### Retornado Status 400 BAD REQUEST
@@ -136,7 +136,7 @@
         }
     ]
 }
-ˋˋˋ
+```
 
 ### Id não encontrado
 ### Retornado Status 404 NOT FOUND
@@ -147,6 +147,6 @@
     "dataHora": "2020-12-08T16:11:44.6410208-03:00",
     "erro": "Id não encontrado!"
 }
-ˋˋˋ
+```
 
 
