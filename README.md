@@ -26,7 +26,7 @@
 #### http://localhost:8080/api/pessoa/busca/?nome=&page=0&limite=20
 #### Retornando um Status 200 OK
 
-ˋˋˋ
+```json
 "_embedded": {
         "pessoaList": [
             {
@@ -55,7 +55,7 @@
         "number": 0
     }
 }
-ˋˋˋ
+```
 
 ### GET buscaPorId
 #### Com 1 parametro obrigatorio id
